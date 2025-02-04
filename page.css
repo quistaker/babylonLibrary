@@ -1,7 +1,7 @@
 body {
   background-color: rgb(222, 222, 194);
   font-size: 16px;
-  font-family:monospace;
+  font-family: monospace;
 }
 
 .main-window {
@@ -12,14 +12,21 @@ body {
 .worktextblock {
   width: 780px;
   margin: 20px auto 0 auto;
-
 }
 
 pre {
+  font-family: monospace;
+
   text-wrap-mode: wrap;
   word-break: break-all;
+  white-space-collapse: preserve;
+
+  margin: 0;
 }
 
 button {
-  margin: 50px auto 0 auto;
+  margin: 350px auto 0 auto;
 }
+
+
+
