@@ -16,12 +16,7 @@ body {
 
 pre {
   font-family: monospace;
-
-  text-wrap-mode: wrap;
-  word-break: break-all;
-
-  line-break: anywhere;
-
+  text-align: center;
   margin: 0;
 
 }
@@ -29,6 +24,3 @@ pre {
 button {
   margin: 350px auto 0 auto;
 }
-
-
-
