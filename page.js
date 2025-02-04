@@ -1,6 +1,6 @@
 const workText = document.getElementsByClassName('worktext')[0]
 const randButton = document.getElementsByClassName('randBtn')[0]
-const alphabet = 'abcdefgihjklmnopqrstuvwxyz..........'
+const alphabet = 'abcdefgihjklmnopqrstuvwxyz ,.'
 const alphabetArray = alphabet.split('')
 
 
