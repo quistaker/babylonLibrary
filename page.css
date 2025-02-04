@@ -19,9 +19,11 @@ pre {
 
   text-wrap-mode: wrap;
   word-break: break-all;
-  white-space-collapse: preserve;
+
+  line-break: anywhere;
 
   margin: 0;
+
 }
 
 button {
